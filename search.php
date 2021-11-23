@@ -6,7 +6,7 @@
                     
                     <nav class="navbar navbar-marketing navbar-expand-lg bg-white navbar-light">
                         <div class="container">
-                            <a class="navbar-brand text-dark" href="index.php">TechBarik</a><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><img src="img/menu.png" style="height:20px;width:25px" /><i data-feather="menu"></i></button>
+                            <a class="navbar-brand text-dark" href="index.php">Acadamics</a><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><img src="img/menu.png" style="height:20px;width:25px" /><i data-feather="menu"></i></button>
                             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                                 <ul class="navbar-nav ml-auto mr-lg-5">
                                     <li class="nav-item">
@@ -25,7 +25,7 @@
                         </div>
                     </nav>
 
-                    <header class="page-header page-header-dark bg-gradient-primary-to-secondary">
+                    <header class="page-header page-header-dark green">
                         <div class="page-header-content pt-10">
                             <div class="container text-center">
                                 <div class="row justify-content-center">
@@ -185,7 +185,7 @@
                     <div class="container">
                         <hr class="my-1" />
                         <div class="row align-items-center">
-                            <div class="col-md-6 small">Copyright &#xA9; Your Website 2020</div>
+                            <div class="col-md-6 small">Copyright &#xA9; Your Website 2021</div>
                             <div class="col-md-6 text-md-right small">
                                 <a href="#">Privacy Policy</a>
                                 &#xB7;
