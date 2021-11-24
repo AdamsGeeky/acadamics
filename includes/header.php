@@ -1,3 +1,5 @@
+<!-- conncetion link to all pages that include header -->
+<?php require_once("./includes/db.php"); ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
